@@ -7776,4 +7776,5 @@ exports.BattleItems = {
 		num: -767,
 		gen: 0,
 		desc: "If holder is a Staraptor, this item allows it to Mega Evolve in battle.",
+	},
 };
